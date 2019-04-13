@@ -1,5 +1,16 @@
-Electron Cash - Lightweight Bitcoin Cash client
+DEPRECATED
 =====================================
+
+This repository is archived and will not be maintained.
+
+The CashShuffle plugin went through many revisions here and is now included as a standard part of Electron Cash.
+
+You can find CashShuffle documentation at https://github.com/cashshuffle/spec
+
+You can find Electron Cash at https://github.com/Electron-Cash/Electron-Cash
+
+----------
+
 
 ::
 
